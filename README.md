@@ -7,9 +7,9 @@
 
 ### Connect with me: 
 
-[<img align="left" alt="Tom Grayston | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tomgrayston/)
-[<img align="left" alt="Tom Grayston  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Tom_Grayston)
-[<img align="left" alt="Tom Grayston | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/tomgrayston/)
+[<img align="left" alt="Tom Grayston | LinkedIn" width="22px" src="https://www.transparentpng.com/thumb/linkedin/linkedin-icon-png-4.png" />](https://www.linkedin.com/in/tomgrayston/)
+[<img align="left" alt="Tom Grayston  | Twitter" width="22px" src="https://www.transparentpng.com/thumb/twitter/twitter-bird-logo-pictures-0.png" />](https://twitter.com/Tom_Grayston)
+[<img align="left" alt="Tom Grayston | Instagram" width="22px" src="https://www.transparentpng.com/thumb/logo-instagram/4u4DTk-instagram-logo-transparent-background.png" />](https://www.instagram.com/tomgrayston/)
 
 <br />
 
